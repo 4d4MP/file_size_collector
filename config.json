@@ -1,0 +1,12 @@
+{
+    "folders": [
+        "E:\\DATA\\ansible",
+        "E:\\DATA\\java"
+    ],
+    "generate_csv": true,
+    "csv_file_name": "out.csv",
+    "unit": "KB",
+    "add_to_registry": true,
+    "registry_file": "collected.csv",
+    "create_unique_file_name": false
+}
